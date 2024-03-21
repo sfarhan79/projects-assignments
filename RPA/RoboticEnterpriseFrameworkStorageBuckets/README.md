@@ -4,7 +4,7 @@
 **Robotic Enterprise Framework**
 
 ### How It Works ###
-Read a file, if any, from Storage Bucket. Extract data from Web and Append to the file, and upload to the Storage Bucket.  
+Read a file, if any, from Storage Bucket. Extract data from Web and Append to the file. Upload the appended file to Storage Bucket.  
 
 1. **INITIALIZE PROCESS**
  + Reading file from the Storage Bucket (create a file manually as required)
