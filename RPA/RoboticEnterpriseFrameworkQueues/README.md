@@ -5,10 +5,7 @@
 **Robotic Enterprise Framework**
 
 ### Process ###
-I have a folder with files of names 1-10 
-I have two more folders, with names, even and odd 
-The third folder is for primes or exceptions BRE. 
-Take each file if the file name is even kept in even, if file name is odd keep in odd 
+I have a folder with files of names 1-10. I have two more folders, as for even and odd and the third folder is for primes or exceptions BRE. Take each file if the file, then if the name is even, keep in even, if the file name is odd, keep in odd. 
 If the file name is prime, send it to the exception folder. 
 
 Read folder, take files, depending on the file name move it to different folders 
