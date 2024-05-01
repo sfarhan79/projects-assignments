@@ -1,3 +1,5 @@
+import streamlit as st
+st.write(
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -156,4 +158,4 @@ finance_cluster.head()
 finance_cluster[finance_cluster["cluster_ID_H"]==5].tail()
 
 fig=plt.figure(figsize=(10,5))
-plt.scatter(finance_cluster["cluster_ID_H"],finance_cluster["Units Sold"],c=ac.labels_)
+plt.scatter(finance_cluster["cluster_ID_H"],finance_cluster["Units Sold"],c=ac.labels_))
