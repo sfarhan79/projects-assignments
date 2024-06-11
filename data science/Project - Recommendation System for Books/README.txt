@@ -1,4 +1,4 @@
-Objective: Generate the features from the dataset and use them to recommend the books accordingly to the users.
+Objective: Generate the features from dataset and use them to recommend the books accordingly, to the users.
 
 Perform:
 1.	Exploratory Data Analysis (EDA)
@@ -7,22 +7,21 @@ b.	Cleaning the data
 c.	Checking invalid records
 d.	Missing value detection and imputation
 e.	Duplicated records
-f.	Outliers
-g.	Etc.
+f.	Outliers, etc.
 
 2.	Data Visualization
-a.	All graph names
+a.	Analyzing data through visualization.
 
-3.	Feature engineering
-a.	All feature engineering methods to be followed
+3.	Feature Engineering
+a.	Implementing feature engineering methods. 
 
 4.	Model building
-a.	All algorithms to be tested.
+a.	Identifying algorithms, building and testing.
 
-5.	Hyperparameter tuning
-a.	If required
+5.	Hyperparameter Tuning
+a.	As required.
 
 6.	Model evaluation
-a.	All evaluation metrics for classification models
+a.	Evaluating model/s with classification and regression metrics. 
 
-7.	Model deployment
+7.	Model Deployment
