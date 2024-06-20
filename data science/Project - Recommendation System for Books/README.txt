@@ -16,7 +16,7 @@ a.	Analyzing data through visualization.
 a.	Implementing feature engineering methods. 
 
 4.	Model building
-a.	Identifying algorithms, building and testing.
+a.	Identifying algorithms, building model/s and testing.
 
 5.	Hyperparameter Tuning
 a.	As required.
