@@ -8,17 +8,17 @@ Predict the Stock Price for the next 30 days. There are Open, High, Low and Clos
 ● Forecast for next 1 year.
 
 Perform:
-1.Exploratory Data Analysis (EDA)
-a.Describing the dataset
-b.Cleaning the data
-c.Checking invalid records
-d.Missing value detection and imputation
-e.Duplicated records
-f.Outliers
-g.Feature Engineering
-h.Data Visualization
+1. Exploratory Data Analysis (EDA)
+a. Describing the dataset
+b. Cleaning the data
+c. Checking invalid records
+d. Missing value detection and imputation
+e. Duplicated records
+f. Outliers
+g. Feature Engineering
+h. Data Visualization
 
-2.Model building
-a.Identifying algorithms, building model/s, testing and evaluation.
+2. Model building
+a. Identifying algorithms, building model/s, testing and evaluation.
 
-3.Model Deployment
+3. Model Deployment
