@@ -22,3 +22,6 @@ h. Data Visualization
 a. Identifying algorithms, building model/s, testing and evaluation.
 
 3. Model Deployment
+a. Utilization of pickle 
+b. Leveraging Flask framework
+c. Deploying via Stream-lit
