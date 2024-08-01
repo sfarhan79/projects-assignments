@@ -25,3 +25,6 @@ a. As required.
 a. Evaluating model/s with classification and regression metrics. 
 
 7. Model Deployment
+a. Utilization of pickle 
+b. Leveraging Flask framework
+c. Deploying via Stream-lit
