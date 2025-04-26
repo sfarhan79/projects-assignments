@@ -1,1 +1,0 @@
-Check statistics your data.
