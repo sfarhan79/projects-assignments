@@ -1,1 +1,0 @@
-Validate and Authorise entries to manage authority and avoid unauthorized access.
