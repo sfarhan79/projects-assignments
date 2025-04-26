@@ -1,1 +1,0 @@
-A Help-Desk. Assistance in finding a store in a mall.
