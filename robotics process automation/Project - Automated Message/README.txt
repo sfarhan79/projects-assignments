@@ -1,1 +1,0 @@
-Set up and deliver the Message. Add Timestamp for reference.
